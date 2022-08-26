@@ -2,30 +2,7 @@
 
 # GITHUB Repository
 
-
 # Table of Contents:
-=======
-Table of Contents
-
-'1.Description'
-
-'2.Installation'
-
-'3.Usage'
-
-'4.Screenshots of working Generator'
-
-'5.Contributor Guidelines'
-
-'6.Test Instructions'
-
-'7.Credits'
-
-'8.Questions'
-
-'9.License'
->>>>>>> 0bf551430c6e7dcf2c97b7bbe4e9ce92fdc90205
-
 1. Description
 
 2. Installation
