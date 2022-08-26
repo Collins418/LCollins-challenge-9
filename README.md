@@ -1,8 +1,8 @@
-# **Professional README GENERATOR Challenge 6**
+# **README GENERATOR Challenge 6**
 
 # GITHUB Repository
 
-<<<<<<< HEAD
+
 # Table of Contents:
 =======
 Table of Contents
