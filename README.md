@@ -49,6 +49,8 @@ If you're new to Markdown, read the GitHub guide on Mastering Markdown.
 
 
 ## Screenshots of Generator
+![Screenshot index js ](https://user-images.githubusercontent.com/106499144/186963884-c9e96960-877c-4bcf-9cc1-4595a487fc50.jpg)
+![Screenshot readme sample](https://user-images.githubusercontent.com/106499144/186963886-87d330ce-bffc-4ab5-afc7-e3d8f20474db.jpg)
 
 ## Contributor Guidelines
 
