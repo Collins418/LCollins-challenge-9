@@ -12,9 +12,9 @@ https://github.com/Collins418/LCollins-challenge-9
 
 4. Screenshots of working Generator
 
-5. Contributor Guidelines
+5. Contributor 
 
-6. Test Instructions
+6. Tests
 
 7. Credits
 
@@ -24,7 +24,7 @@ https://github.com/Collins418/LCollins-challenge-9
 
 # Description
 
-* While making an open source project on GitHub, it is critical to have a quality README with data about the application, including how to utilize the application, how to introduce it, how to report issues, and how to make commitments so different designers are bound to utilize and add to the progress of the undertaking. **
+* While making an open source project on GitHub, it is critical to have a quality README with data about the application, including how to utilize the application, how to introduce it, how to report issues, and how to make commitments so different designers are bound to utilize and add to the progress of the undertaking.
 
 * Utilizing 100 percent JSON and Node Package Manager utilizing the bundle Inquirer, an order line application will consider the fast and simple age of a task README to begin rapidly. **
 
@@ -44,20 +44,21 @@ If you're new to Markdown, read the GitHub guide on Mastering Markdown.
 
 * The application will be invoked with the following command in the integrated terminal: node index.
 
-*  A command-line application that generates a professional README.md from a user's input using the Inquirer package.
+*  A command-line application that generates a professional README.md from a user's input using the Inquirer package https://www.npmjs.com/package/inquirer.
 
-* To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax: Demonstration of how to use the application.
+* To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax: Demonstration of how to use the application. https://agea.github.io/tutorial.md/
 
 
 ## Screenshots of Generator
 ![Screenshot index js ](https://user-images.githubusercontent.com/106499144/186963884-c9e96960-877c-4bcf-9cc1-4595a487fc50.jpg)
 ![Screenshot readme sample](https://user-images.githubusercontent.com/106499144/186963886-87d330ce-bffc-4ab5-afc7-e3d8f20474db.jpg)
 
-## Contributor Guidelines
+## Contributor
 
 * no contributions
+*  https://www.contributor-covenant.org/
 
-## Test Instructions
+## Tests
 
 * To test the application, install it on your local machine then code. 
 
@@ -70,6 +71,6 @@ If you followed tutorials, include links to those here as well.
 * Follow me on Github at [Collins418] (http://github.com/Collins418)
 * For additional help/ questions, please reach out to me at .........@gmail.com
 
-## License
+## License 
 
-This project is covered under the MIT license.
+This project is covered under the MIT license. https://choosealicense.com/
