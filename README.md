@@ -34,10 +34,11 @@ If you're new to Markdown, read the GitHub guide on Mastering Markdown.
 **
 ## Installation
 
-*This application is simple to install. 
- Git clone this repo on your machine
- Open the terminal in the index file.
- Put(type)  ' npm init -y ' and ' npm install '.
+*This application is simple to install.  
+*Git clone this repo on your machine.
+ *Open the terminal in the index file.
+*Put(type)  ' npm init -y ' and ' npm install '.
+https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows-2/
 
 
 ## Usage
