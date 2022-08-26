@@ -1,7 +1,9 @@
 # **README GENERATOR Challenge 6**
 
-# GITHUB Repository
+# GITHUB Repository/video
 https://github.com/Collins418/LCollins-challenge-9
+
+https://watch.screencastify.com/v/SaHya4Kll53VdLCUq2cx
 
 # Table of Contents:
 1. Description
