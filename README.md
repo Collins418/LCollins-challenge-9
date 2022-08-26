@@ -5,6 +5,16 @@ https://github.com/Collins418/LCollins-challenge-9
 
 https://watch.screencastify.com/v/SaHya4Kll53VdLCUq2cx
 
+1. [Description](#description)
+2. [Installation ](#installation)
+3. [Usage](#usage)
+4. [Contributor](#contributor)
+5. [Tests](#tests)
+6. [Credits](#credits)
+7. [License](#license)
+8. [Questions](#questions)
+
+
 # Table of Contents:
 1. Description
 
